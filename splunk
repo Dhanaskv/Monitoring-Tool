@@ -1,0 +1,18 @@
+#what is splunk
+splunk is a software platform widely used for searching,monitoring,analyzing and visualizing the mahine-generated data
+
+splunk produces the graphs,alerts,dashboards and visualizations....
+
+#why need to splunk
+machine data is
+      1)complex to understand
+      2)unstructured format
+      3)no suitable for analyzing and visualization
+      4)It reduces the troubleshooting and resolving time by offering instant results
+      5)Helps monitor to business metrics
+#splunk products
+    1)splunk enterprise
+    2)splunk cloud
+    3)splunk light
+#splunk architecture
+
