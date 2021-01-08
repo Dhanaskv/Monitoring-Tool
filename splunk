@@ -15,4 +15,12 @@ machine data is
     2)splunk cloud
     3)splunk light
 #splunk architecture
+Forwarder
+Indexer
+Search Head
+
+#What is Forwarder
+universal Forwarder
+Heavy Forwarder
+
 
