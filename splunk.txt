@@ -17,3 +17,15 @@ cd splunk/bin/
 ./splunk stop
 ./splunk start
 ====================================
+#Universal Forwarder
+sudo su
+cd /opt
+
+wget -O splunkforwarder-8.1.1-08187535c166-Linux-x86_64.tgz 'https://www.splunk.com/bin/splunk/DownloadActivityServlet?architecture=x86_64&platform=linux&version=8.1.1&product=universalforwarder&filename=splunkforwarder-8.1.1-08187535c166-Linux-x86_64.tgz&wget=true'
+
+tar -xzvf splunk forwarder.x86.64.tgz
+
+cd /opt/splunkforwarder/bin
+
+./splunk start
+./splunk status
